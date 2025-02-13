@@ -19,7 +19,7 @@ The repository is divided into **four tasks**, each with its own folder for easy
   - **Incident Notification Template Email**
 - 📄 **Key Deliverables:**
   - **Draft_Email.pdf** (Incident Notification Email)
-- 📁 **All resources and deliverables are available in the [Task 1 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-1_Responding-to-Malware-Attack)**  
+- 📁 **All resources and deliverables are available in the [Task 1 Folder](https://github.com/sumitgiri87/Incident-Response-Telstra/tree/main/Task-1_Responding-to-Malware-Attack)**  
 
 
 ---
@@ -32,7 +32,7 @@ The repository is divided into **four tasks**, each with its own folder for easy
   - **Firewall Rule Creation Request Email Template**
 - 📄 **Key Deliverables:**
   - **Draft_Email_to_Networks_Team.pdf** (Findings Report)
-- 📁 **All resources and deliverables are available in the [Task 2 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-2_Analysing-the-Attack)**  
+- 📁 **All resources and deliverables are available in the [Task 2 Folder](https://github.com/sumitgiri87/Incident-Response-Telstra/tree/main/Task-2_Analysing-the-Attack)**  
 
 
 ---
@@ -46,7 +46,7 @@ The repository is divided into **four tasks**, each with its own folder for easy
 - 📄 **Key Deliverables:**  
   - `firewall_server.py` (Python Firewall Rule)  
   - `test_requests.py` (Testing Script)  
-- 📁 **All resources and deliverables are available in the [Task 3 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-3_Mitigate-the-Malware)**  
+- 📁 **All resources and deliverables are available in the [Task 3 Folder](https://github.com/sumitgiri87/Incident-Response-Telstra/tree/main/Task-3_Mitigate-the-Malware)**  
 
 
 ---
@@ -58,7 +58,7 @@ The repository is divided into **four tasks**, each with its own folder for easy
   - **Postmortem Template** 
 - 📄 **Key Deliverables:**  
   - **Postmortem_Report.pdf** (Detailed Incident Report)  
-- 📁 **All resources and deliverables are available in the [Task 4 Folder](https://github.com/sumitgiri87/Cybersecurity/tree/main/Forage-Projects/Telstra-Cybersecurity-Simulation/Task-4_Incident-Postmortem)**  
+- 📁 **All resources and deliverables are available in the [Task 4 Folder](https://github.com/sumitgiri87/Incident-Response-Telstra/tree/main/Task-4_Incident-Postmortem)**  
 
 
 ---
