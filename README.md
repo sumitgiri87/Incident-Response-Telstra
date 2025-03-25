@@ -1,4 +1,4 @@
-# 🛡 Telstra Cybersecurity Job Simulation – Forage Virtual Internship
+# 🛡 Telstra Cybersecurity Job Simulation – Forage Virtual Internship 
 
 ## 📌 Overview
 
